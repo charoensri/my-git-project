@@ -1,0 +1,1 @@
+Seri Testing Gemini to add file to my-git-project
